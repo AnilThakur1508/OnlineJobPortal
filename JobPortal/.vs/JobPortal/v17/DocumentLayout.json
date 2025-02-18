@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\Online Job Portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD64D936-1251-417A-A11E-13EB35EB3D86}|Online Job Portal.csproj|c:\\users\\lenovo\\source\\onlinejobportal\\online job portal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD64D936-1251-417A-A11E-13EB35EB3D86}|Online Job Portal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD64D936-1251-417A-A11E-13EB35EB3D86}|Online Job Portal.csproj|c:\\users\\lenovo\\source\\onlinejobportal\\online job portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD64D936-1251-417A-A11E-13EB35EB3D86}|Online Job Portal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\source\\OnlineJobPortal\\DataAccessLayer\\Migrations\\20250218092659_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDDB080-C5B1-4F5E-8AFE-76357EFA2E9A}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lenovo\\source\\onlinejobportal\\dataaccesslayer\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD64D936-1251-417A-A11E-13EB35EB3D86}|Online Job Portal.csproj|c:\\users\\lenovo\\source\\onlinejobportal\\online job portal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD64D936-1251-417A-A11E-13EB35EB3D86}|Online Job Portal.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE0FBAE-BE08-4F96-A57E-F859CC7EFBE0}|..\\DTO\\DTO.csproj|c:\\users\\lenovo\\source\\onlinejobportal\\dto\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE0FBAE-BE08-4F96-A57E-F859CC7EFBE0}|..\\DTO\\DTO.csproj|c:\\users\\lenovo\\source\\onlinejobportal\\dto\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD64D936-1251-417A-A11E-13EB35EB3D86}|JobPortal.csproj|c:\\users\\lenovo\\source\\onlinejobportal\\online job portal\\jobportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD64D936-1251-417A-A11E-13EB35EB3D86}|JobPortal.csproj|solutionrelative:jobportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Migrations\\20250218060128_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\LoginModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\AppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\RegisterModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DTO\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250218092659_initial.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\DataAccessLayer\\Migrations\\20250218092659_initial.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Migrations\\20250218092659_initial.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\DataAccessLayer\\Migrations\\20250218092659_initial.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Migrations\\20250218092659_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:27:00.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\DTO\\UserDto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "..\\DTO\\UserDto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\DTO\\UserDto\\RegisterDto.cs",
+              "RelativeToolTip": "..\\DTO\\UserDto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:20:20.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:16:06.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\DTO\\UserDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "..\\DTO\\UserDto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\DTO\\UserDto\\LoginDto.cs",
+              "RelativeToolTip": "..\\DTO\\UserDto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:15:24.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250218060128_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Migrations\\20250218060128_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Migrations\\20250218060128_initial.cs",
+              "ToolTip": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Migrations\\20250218060128_initial.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Migrations\\20250218060128_initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:01:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\Online Job Portal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\Online Job Portal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:54:32.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\LoginModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\LoginModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:52:08.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\Online Job Portal\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\Online Job Portal\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:48:42.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\AppUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\AppUser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\AppUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:44:22.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Data\\AppDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:39:38.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\RegisterModel.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Regestration Data\\RegisterModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:37:42.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\Online Job Portal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\Online Job Portal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T05:56:51.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Online Job Portal.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\Online Job Portal\\JobPortal.csproj",
+              "RelativeDocumentMoniker": "JobPortal.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\OnlineJobPortal\\Online Job Portal\\JobPortal.csproj",
+              "RelativeToolTip": "JobPortal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T05:32:29.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\Service\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\Service\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\Service\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:26:10.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DTO\\Class1.cs",
+              "ToolTip": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DTO\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DTO\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:25:21.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Payal Thakur\\source\\PROJECTCOLLEGE\\DataAccessLayer\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:24:27.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
